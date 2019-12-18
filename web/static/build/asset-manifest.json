@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/web/static/build/static/css/main.077b05b0.chunk.css",
+    "main.js": "/web/static/build/static/js/main.9a469df5.chunk.js",
+    "main.js.map": "/web/static/build/static/js/main.9a469df5.chunk.js.map",
+    "runtime~main.js": "/web/static/build/static/js/runtime~main.b4fb5ece.js",
+    "runtime~main.js.map": "/web/static/build/static/js/runtime~main.b4fb5ece.js.map",
+    "static/js/2.df56c2c5.chunk.js": "/web/static/build/static/js/2.df56c2c5.chunk.js",
+    "static/js/2.df56c2c5.chunk.js.map": "/web/static/build/static/js/2.df56c2c5.chunk.js.map",
+    "index.html": "/web/static/build/index.html",
+    "precache-manifest.b3af593b04e7747b2b28005ed9a6e24f.js": "/web/static/build/precache-manifest.b3af593b04e7747b2b28005ed9a6e24f.js",
+    "service-worker.js": "/web/static/build/service-worker.js",
+    "static/css/main.077b05b0.chunk.css.map": "/web/static/build/static/css/main.077b05b0.chunk.css.map",
+    "static/media/fangdajing.svg": "/web/static/build/static/media/fangdajing.346294e5.svg",
+    "static/media/gantan.svg": "/web/static/build/static/media/gantan.8925b427.svg",
+    "static/media/logo.svg": "/web/static/build/static/media/logo.6f6b8cd5.svg",
+    "static/media/next.svg": "/web/static/build/static/media/next.dc79308d.svg",
+    "static/media/prev.svg": "/web/static/build/static/media/prev.3c382ca0.svg"
+  }
+}
